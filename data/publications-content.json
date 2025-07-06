@@ -28,11 +28,21 @@
         "In Vivo Patch-Clamp",
         "Pipette Localisation"
       ],
-      "links": "[",
-      "\"PDF": "https://arxiv.org/pdf/2504.01044?\",",
-      "\"Code": "https://github.com/LannWei/Patch-Clamp-Localisation\",",
-      "\"Project": "https://lannwei.github.io/Patch-Clamp-Localisation/\"",
-      "body": "]"
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://arxiv.org/pdf/2504.01044?"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/LannWei/Patch-Clamp-Localisation"
+        },
+        {
+          "type": "Project",
+          "url": "https://lannwei.github.io/Patch-Clamp-Localisation/"
+        }
+      ],
+      "body": ""
     },
     {
       "title": "A Dataset and Benchmarks for Deep Learning-Based Optical Microrobot Pose and Depth Perception",
@@ -47,12 +57,22 @@
         "Microrobot",
         "Dataset"
       ],
-      "links": "[",
-      "\"PDF": "https://arxiv.org/pdf/2505.18303\",",
-      "\"Code": "https://github.com/LannWei/Optical-Microrobot-Database\",",
-      "\"Project": "https://lannwei.github.io/Optical-Microrobot-Database/\"",
-      "body": "]"
+      "links": [
+        {
+          "type": "PDF",
+          "url": "https://arxiv.org/pdf/2505.18303"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/LannWei/Optical-Microrobot-Database"
+        },
+        {
+          "type": "Project",
+          "url": "https://lannwei.github.io/Optical-Microrobot-Database/"
+        }
+      ],
+      "body": ""
     }
   ],
-  "lastUpdated": "2025-07-06T15:19:20.509Z"
+  "lastUpdated": "2025-07-06T15:46:17.430Z"
 }

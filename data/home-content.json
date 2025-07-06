@@ -187,13 +187,11 @@
           "name": "Contact Details",
           "data": {
             "email": "d dot zhang17 at imperial dot ac dot uk",
-            "address": "Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, W12 7TA",
-            "<!-- phone": "+31 20 525 1234\" -->",
-            "<!-- website": "https://euroai-lab.github.io\" -->"
+            "address": "Translation & Innovation Hub (I-Hub), White City Campus, Imperial College London, W12 7TA"
           }
         }
       ]
     }
   },
-  "lastUpdated": "2025-07-06T15:19:20.739Z"
+  "lastUpdated": "2025-07-06T15:46:17.662Z"
 }
