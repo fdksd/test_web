@@ -9,29 +9,8 @@
         {
           "name": "Committee",
           "data": {
-            "name": "Neural Information Processing Systems (NeurIPS)",
-            "period": "2022 - Present"
-          }
-        },
-        {
-          "name": "Committee",
-          "data": {
-            "name": "International Conference on Computer Vision (ICCV)",
-            "period": "2023 - Present"
-          }
-        },
-        {
-          "name": "Committee",
-          "data": {
-            "name": "Computer Vision and Pattern Recognition (CVPR)",
-            "period": "2022 - Present"
-          }
-        },
-        {
-          "name": "Committee",
-          "data": {
             "name": "International Conference on Robotics and Automation (ICRA)",
-            "period": "2024 - Present\" -->"
+            "period": "2024 - Present"
           }
         }
       ]
@@ -49,17 +28,9 @@
         {
           "name": "Journal",
           "data": {
-            "name": "Machine Learning",
-            "role": "Guest Editor",
-            "period": "2024 - Present"
-          }
-        },
-        {
-          "name": "Journal",
-          "data": {
-            "name": "IEEE Robotics and Automation Letters",
-            "role": "Associate Editor",
-            "period": "2023 - Present\" -->"
+            "name": "Frontiers in Neurorobotics and Frontiers in Neuroscience",
+            "role": "Editorial Board Member",
+            "period": "2022 - Present"
           }
         }
       ]
@@ -139,5 +110,5 @@
       ]
     }
   },
-  "lastUpdated": "2025-07-06T14:42:23.613Z"
+  "lastUpdated": "2025-07-06T15:14:12.470Z"
 }
