@@ -13,7 +13,7 @@
             "role": "PhD Student",
             "period": "2022 - Present",
             "description": "Wen received his MSc degree in xx from the University of Manchester in 2021. He obtained his B.E. degree in xxx from Hefei University of Technology at 2020.  His main research interest xxx.",
-            "avatar": "/test_web/assets/avatar_imgs/Alex_Zhang.jpg"
+            "avatar": "/msei_website/assets/avatar_imgs/Alex_Zhang.jpg"
           }
         },
         {
@@ -23,7 +23,7 @@
             "role": "PhD Student",
             "period": "2024 - Present",
             "description": "Jialin received his MSc degree in xx from the University of Bristol in 2022. He obtained his B.E. degree in xxx from Dalian University of Technology at 2021.  His main research interest xxx.",
-            "avatar": "/test_web/assets/avatar_imgs/jialin.png"
+            "avatar": "/msei_website/assets/avatar_imgs/jialin.png"
           }
         },
         {
@@ -33,7 +33,7 @@
             "role": "PhD Student",
             "period": "2024 - Present",
             "description": "Lan received her M.E. degree in Computer Science from the University of Science and Technology of China in 2024. She obtained her B.E. degree in Computer Science from Xiamen University in 2021.  Her main research interest is machine learning-based perception of optical microrobots.",
-            "avatar": "/test_web/assets/avatar_imgs/Lan_Wei.jpg"
+            "avatar": "/msei_website/assets/avatar_imgs/Lan_Wei.jpg"
           }
         },
         {
@@ -43,7 +43,7 @@
             "role": "PhD Student",
             "period": "2025 - Present",
             "description": "Zongcai received his MSc degree in xx from Imperial College London in 2024. He obtained his B.E. degree in xxx from Jilin University at 2023.  His main research interest xxx.",
-            "avatar": "/test_web/assets/avatar_imgs/Chen_Lin.jpg"
+            "avatar": "/msei_website/assets/avatar_imgs/Chen_Lin.jpg"
           }
         },
         {
@@ -53,7 +53,7 @@
             "role": "PhD Student",
             "period": "2025 - Present",
             "description": "Kangyi received her M.E. degree in xxx from the Shanghai Jiao Tong University in 2024. She obtained her B.E. degree in xxx from xx in 2021.  Her main research interest is xxx.",
-            "avatar": "/test_web/assets/avatar_imgs/Chen_Lin.jpg"
+            "avatar": "/msei_website/assets/avatar_imgs/Chen_Lin.jpg"
           }
         }
       ]
@@ -67,7 +67,7 @@
             "role": "Research Assistant",
             "period": "2024 - Present",
             "description": "Working on federated learning and privacy-preserving AI systems. Developing secure protocols for distributed machine learning across multiple institutions.",
-            "avatar": "/test_web/assets/avatar_imgs/Liu_Yan.jpg"
+            "avatar": "/msei_website/assets/avatar_imgs/Liu_Yan.jpg"
           }
         },
         {
@@ -77,7 +77,7 @@
             "role": "Research Student",
             "period": "2023 - Present",
             "description": "Specializing in natural language processing and transformer models. Working on large language models for multilingual applications and cross-modal understanding.",
-            "avatar": "/test_web/assets/avatar_imgs/Wang_Yu.jpg\" -->"
+            "avatar": "/msei_website/assets/avatar_imgs/Wang_Yu.jpg\" -->"
           }
         }
       ]
@@ -91,7 +91,7 @@
             "role": "Visiting PhD Student",
             "period": "2024 - Present",
             "description": "Visiting from ETH Zurich, specializing in robotic manipulation and haptic feedback systems. Collaborating on our dexterous manipulation projects.",
-            "avatar": "/test_web/assets/avatar_imgs/Hans_Mueller.jpg\" -->"
+            "avatar": "/msei_website/assets/avatar_imgs/Hans_Mueller.jpg\" -->"
           }
         }
       ]
@@ -146,6 +146,5 @@
         }
       ]
     }
-  },
-  "lastUpdated": "2025-07-06T15:46:18.392Z"
+  }
 }
