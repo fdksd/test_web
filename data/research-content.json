@@ -11,7 +11,7 @@
           "data": {
             "title": "Autonomous Optical Microrobot",
             "description": "Optical microrobots actuated by optical tweezers (OT) have shown significant promise in biomedical applications, including cell manipulation and microscale assembly. A fundamental requirement for these applications is accurate three-dimensional perception and control under complex, dynamic biological environments. However, several key challenges hinder progress. First, the transparent and low-contrast appearance of microrobots under optical microscopy severely limits the performance of conventional deep learning models in pose and depth estimation. Second, current learning-based perception models rely heavily on large annotated datasets, yet collecting and labelling microrobotic images is both time-consuming and technically demanding. Third, real OT-based experiments are costly, and the field lacks a high- fidelity, biologically realistic simulation environment to test microrobot perception and control algorithms safely and efficiently. Furthermore, existing microrobot structures are task-specific and inflexible, lacking the ability to reconfigure or adapt their functions after deployment. Lastly, deploying deep learning-based perception and control models on real OT systems is constrained by hardware limitations such as restricted computing power and memory.",
-            "image": "/test_web/assets/research/research1.jpg",
+            "image": "/msei_website/assets/research/research1.jpg",
             "project": [
               "Designing microrobot perception algorithms that require minimal data and leverage physical priors;",
               "Developing sim-to-real generative models for microscope image synthesis;",
@@ -26,7 +26,7 @@
           "data": {
             "title": "Multi-modality Tactile Sensor",
             "description": "This project focuses on the development of ViTacTip, a novel multi-modal sensor that seamlessly integrates visual and tactile perception into a unified sensing unit. By combining a transparent skin for visual feature capture with biomimetic tactile tips that amplify contact-induced motion, ViTacTip enables robots to obtain rich physical interaction information during manipulation. For comparison, we also fabricated variants including ViTac (without biomimetic tips) and TacTip (with opaque skin), to isolate and evaluate the contributions of each sensing modality. To further enhance adaptability, we developed a GAN-based modality-switching framework that dynamically shifts the emphasis between vision and touch, enabling more effective perception under varying task conditions. This work offers promising directions for robotic manipulation, multi-sensory fusion, and adaptive control.",
-            "image": "/test_web/assets/research/research2.avif",
+            "image": "/msei_website/assets/research/research2.avif",
             "project": [
               "Multi-modal sensor design and fabrication",
               "Visual-tactile fusion algorithms",
