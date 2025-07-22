@@ -63,21 +63,11 @@
         {
           "name": "Research Assistant",
           "data": {
-            "name": "Liu Yan",
+            "name": "Qingzheng Cong",
             "role": "Research Assistant",
             "period": "2024 - Present",
-            "description": "Working on federated learning and privacy-preserving AI systems. Developing secure protocols for distributed machine learning across multiple institutions.",
-            "avatar": "/test_web/assets/avatar_imgs/Liu_Yan.jpg"
-          }
-        },
-        {
-          "name": "Research Assistant",
-          "data": {
-            "name": "Wang Yu",
-            "role": "Research Student",
-            "period": "2023 - Present",
-            "description": "Specializing in natural language processing and transformer models. Working on large language models for multilingual applications and cross-modal understanding.",
-            "avatar": "/test_web/assets/avatar_imgs/Wang_Yu.jpg\" -->"
+            "description": "Qingzheng received his MSc degree in xx from the University of Bristol in 2023. He obtained his B.E. degree in xxx from Durham University at 2022.  His main research interest xxx.",
+            "avatar": "/test_web/assets/avatar_imgs/Li_Wei.jpg"
           }
         }
       ]
@@ -87,11 +77,11 @@
         {
           "name": "Visiting PhD Student",
           "data": {
-            "name": "Hans Mueller",
+            "name": "Ziyuan Dong",
             "role": "Visiting PhD Student",
-            "period": "2024 - Present",
-            "description": "Visiting from ETH Zurich, specializing in robotic manipulation and haptic feedback systems. Collaborating on our dexterous manipulation projects.",
-            "avatar": "/test_web/assets/avatar_imgs/Hans_Mueller.jpg\" -->"
+            "period": "2025 - Present",
+            "description": "Visiting from xxx, working on xxx. Contributing to our xxx research.",
+            "avatar": "/test_web/assets/avatar_imgs/Maria_Garcia.jpg"
           }
         }
       ]

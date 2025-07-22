@@ -42,7 +42,8 @@
           "url": "https://lannwei.github.io/Patch-Clamp-Localisation/"
         }
       ],
-      "body": ""
+      "videoId": "tCrBOllIMAo",
+      "body": "videoId: \"tCrBOllIMAo\""
     },
     {
       "title": "A Dataset and Benchmarks for Deep Learning-Based Optical Microrobot Pose and Depth Perception",
@@ -71,8 +72,7 @@
           "url": "https://lannwei.github.io/Optical-Microrobot-Database/"
         }
       ],
-      "highlight": true,
-      "body": "highlight: \"true\""
+      "body": ""
     }
   ]
 }
