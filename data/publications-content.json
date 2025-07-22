@@ -71,7 +71,8 @@
           "url": "https://lannwei.github.io/Optical-Microrobot-Database/"
         }
       ],
-      "body": ""
+      "highlight": true,
+      "body": "highlight: \"true\""
     }
   ]
 }

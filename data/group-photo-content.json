@@ -1,0 +1,22 @@
+{
+  "main": {
+    "url": "/test_web/assets/group_photo/tmfkjppzw2dz.webp",
+    "date": "May 2024",
+    "location": "In front of the lab"
+  },
+  "history": [
+    {
+      "year": "2023",
+      "url": "/test_web/assets/group_photo/group_photo_2023.jpg"
+    },
+    {
+      "year": "2022",
+      "url": "/test_web/assets/group_photo/group_photo_2022.jpg"
+    },
+    {
+      "year": "2021",
+      "url": "/test_web/assets/group_photo/group_photo_2021.jpg"
+    }
+  ],
+  "description": "Our group photo records the growth and efforts of every member at Imperial College London. Click the photo to view it in large size."
+}
